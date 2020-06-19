@@ -33,3 +33,11 @@ Tecnologias:
 * Dados em Excel
 * Cruzamento de dados entre diversas bases
 * Modelagem multidimensional (Star Schema) em SQL e utilizando linguagem DAX
+
+### Fontes de dados utilizadas para os projetos
+
+* Banco de dados PostgreSQL
+* Banco de dados Microsoft SQL Server
+* Banco de dados Oracle Database 11g
+* Planilhas em Microsoft Excel
+* Arquivos de texto em CSV
