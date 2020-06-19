@@ -41,3 +41,23 @@ Tecnologias:
 * Banco de dados Oracle Database 11g
 * Planilhas em Microsoft Excel
 * Arquivos de texto em CSV
+
+### Imagens do Portfolio
+
+#### Página Inicial
+![Página Inicial](https://github.com/vhnegrisoli/portfolio-bi-data-science/blob/master/images/portfolio/Tela%20Inicial.png)
+
+#### Dashboards
+![Dashboards](https://github.com/vhnegrisoli/portfolio-bi-data-science/blob/master/images/portfolio/Dashboards.png)
+
+#### Notebooks
+![Notebooks](https://github.com/vhnegrisoli/portfolio-bi-data-science/blob/master/images/portfolio/Notebooks.png)
+
+#### Sobre o autor
+![Sobre](https://github.com/vhnegrisoli/portfolio-bi-data-science/blob/master/images/portfolio/Sobre.png)
+
+#### Dashboard de portfolio
+![Dashboard Exemplo](https://github.com/vhnegrisoli/portfolio-bi-data-science/blob/master/images/portfolio/Dashboard%20Exemplo.png)
+
+#### Notebook de portfolio
+![Notebook Exemplo](https://github.com/vhnegrisoli/portfolio-bi-data-science/blob/master/images/portfolio/Notebook%20Exemplo.png)
